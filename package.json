@@ -1,0 +1,13 @@
+{
+  "name": "docker-Alpine-hello-world",
+  "private": true,
+  "version": "0.0.2",
+  "description": "Node.js Hello Moresand app on Linux using docker",
+  "author": "Nilanga Ruk  <nilangaruk87@gmail.com>",
+  "dependencies": {
+    "express": "4.16.1"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
